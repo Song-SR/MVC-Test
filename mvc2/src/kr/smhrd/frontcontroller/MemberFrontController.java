@@ -57,6 +57,6 @@ public class MemberFrontController extends HttpServlet {
 				rd.forward(request, response);
 			}
 		}
-		
+		// test
 	}
 }
